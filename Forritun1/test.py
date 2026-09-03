@@ -1,0 +1,1 @@
+print('hahahaha, ég er svo ekki að nenna þessu, langar að fara að sofa')
